@@ -32,7 +32,7 @@ Docker · Vercel · Neovim · Claude Code
 ### Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bachdx2812&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bachdx2812&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachdx2812&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css,scss" alt="Top languages" />
 </p>
 
